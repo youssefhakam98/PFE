@@ -110,7 +110,7 @@
                                                             flex-column justify-content-center
                                                             align-items-center">
                                                     <span class="font-weight-bold">
-                                                        Restaurant BOURANJA
+                                                        Restaurant HAKAM
                                                     </span>
 
                                                     <span class="font-weight-bold">

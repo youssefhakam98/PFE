@@ -46,12 +46,12 @@
     @foreach ($product as $prod)
 
 
-    <div class="d-flex justify-content-around col-md-8 col-xl-6">
+    <div class="d-flex justify-content-around col-md-12 col-xl-12">
         <div class="row">
             <div class="card">
                 <div class="card-body">
                     <div class="row m-b-10">
-                        <div class="col-md-5 col-xxl-12">
+                        <div class="col-md-12 col-xxl-12">
                             <div class="new-arrival-product mb-4 mb-xxl-4 mb-md-0">
                                 <div class="new-arrivals-img-contnent">
                                     <img class="img-fluid" src="{{ asset($prod->image) }}" alt=""
@@ -59,7 +59,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-7 col-xxl-12">
+                        <div class="col-md-12 col-xl-12">
                             <div class="new-arrival-content position-relative">
                                 <h4>{{$prod->title}}</h4>
                                 <p class="price">{{$prod->price}}</p>

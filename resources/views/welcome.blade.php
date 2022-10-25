@@ -39,7 +39,7 @@
             <div class="max-w-6xl mx-auto sm:px-6 lg:px-8">
                 <div class="content">
                     <div class="title m-b-md text-center">
-                        <h1 style="font-size:70px" > <i class="fas fa-hamburger"></i> Restaurant BOURANJA</h1>
+                        <h1 style="font-size:70px" > <i class="fas fa-hamburger"></i> Restaurant HAKAM</h1>
                     </div>
                 </div>
                 
